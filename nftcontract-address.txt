@@ -1,0 +1,8 @@
+PS C:\Personal\Try\ATOTO> npx hardhat run .\scripts\deploy.js --network rinkeby
+Deploying contracts with the account: 0x7C8fbA46830DF84E6BD5C24A516C28DBcE5Ad75E
+Account balance: 120170859513730486
+After contract factory
+After deploy
+0x365443aca9ba92e3fb6fb5a6cf7ebbc4e7122957c350bbafc284efd17d4d4135
+txReceipt
+contract address at: 0xbCe236EE86d1eB0Acd3f24983fD4CC8B937Eb90f
